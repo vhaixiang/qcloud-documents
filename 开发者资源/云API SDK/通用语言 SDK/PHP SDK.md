@@ -24,7 +24,7 @@
     <td><a href="https://cloud.tencent.com/document/api/409/16761">云数据库 PostgreSQL</a></td>
   </tr>
 <tr>
-    <td><a href="https://cloud.tencent.com/document/api/692/16733">Web漏洞扫描</a></td>
+    <td><a href="https://cloud.tencent.com/document/api/692/16733">Web 漏洞扫描</a></td>
     <td><a href="https://cloud.tencent.com/document/api/441/17362">智能语音服务</a></td>
     <td><a href="https://cloud.tencent.com/document/api/858/17760 ">容器实例服务</a></td>
     <td><a href="https://cloud.tencent.com/document/api/283/17741">应用安全</a></td>
@@ -49,15 +49,15 @@
 </tr>
 <tr>
 <td><a href="https://cloud.tencent.com/document/api/884/19310 ">智聆口语评测</a></td>
-<td></td>
-<td></td>
+<td><a href="https://cloud.tencent.com/document/api/239/20001 ">云数据库 Redis</a></td>
+<td><a href="https://cloud.tencent.com/document/api/238/19926 ">云数据库 SQL Server</a></td>
 <td></td>
 </tr>
   </table>
 
 
-## API Explore
-[API Explore](https://console.cloud.tencent.com/api/explorer) 提供了在线调用、签名验证、 SDK 代码生成和快速检索接口等能力，能显著降低使用云 API 的难度，推荐使用。
+## API Explorer
+[API Explorer](https://console.cloud.tencent.com/api/explorer) 提供了在线调用、签名验证、 SDK 代码生成和快速检索接口等能力，能显著降低使用云 API 的难度，推荐使用。
 
 
 ## 依赖环境
